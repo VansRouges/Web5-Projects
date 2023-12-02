@@ -1,3 +1,5 @@
-2023/11/30-13:32:37.899 aa0 Recovering log #32
-2023/11/30-13:32:38.200 aa0 Delete type=0 #32
-2023/11/30-13:32:38.201 aa0 Delete type=3 #30
+2023/12/01-12:33:39.275 2a6c Recovering log #37
+2023/12/01-12:33:39.309 2a6c Level-0 table #40: started
+2023/12/01-12:33:39.399 2a6c Level-0 table #40: 12888 bytes OK
+2023/12/01-12:33:39.598 2a6c Delete type=0 #37
+2023/12/01-12:33:39.598 2a6c Delete type=3 #35
